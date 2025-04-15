@@ -11,6 +11,7 @@
     <itunes:image href="https://gael-mgn.github.io/Podcast/test/assets/cover.jpg" />
     <itunes:category text="Arts"/>
     <itunes:explicit>no</itunes:explicit>
+    <managingEditor>gael.maignan2@gmail.com</managingEditor>
 
     <item>
       <title>Épisode 1 – Introduction</title>
