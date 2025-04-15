@@ -3,19 +3,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Le Podcast de Gaël</title>
-    <link>https://tonsite.github.io/</link>
+    <link>https://gael-mgn.github.io/Podcast</link>
     <language>fr</language>
     <itunes:author>Gaël Maignan</itunes:author>
     <itunes:summary>Un podcast qui explore la restauration du patrimoine.</itunes:summary>
     <description>Un podcast qui explore la restauration du patrimoine.</description>
-    <itunes:image href="https://tonsite.github.io/assets/cover.jpg" />
+    <itunes:image href="https://gael-mgn.github.io/Podcast/test/assets/cover.jpg" />
     <itunes:category text="Arts"/>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
       <title>Épisode 1 – Introduction</title>
-      <enclosure url="https://tonsite.github.io/audio/episode1.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>https://tonsite.github.io/audio/episode1.mp3</guid>
+      <enclosure url="https://gael-mgn.github.io/Podcast/test/audio/episode1.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://gael-mgn.github.io/Podcast/test/audio/episode1.mp3</guid>
       <pubDate>Mon, 01 Apr 2025 10:00:00 GMT</pubDate>
       <itunes:duration>12:34</itunes:duration>
       <itunes:summary>Dans ce premier épisode...</itunes:summary>
